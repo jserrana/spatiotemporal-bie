@@ -1,5 +1,7 @@
 Codes for: "Pollutant biodegradation profile mediated by multi-trophic microbial dynamics in rivers"
 ---  
+Raw sequencing data are deposited at the NCBI SRA archive under project PRJNA1305693. The corresponding visualization and analysis data, as well as the R codes, are publicly accessible at https://github.com/jserrana/spatiotemporal-bie.
+
 Source Data:
 
 		MS-Spatiotemporal-BIE_R-Codes.Rmd            # R scripts for the analyses: from input data processing to downstream analyses.
