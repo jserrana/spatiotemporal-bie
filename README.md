@@ -9,7 +9,7 @@ MS-Spatiotemporal-BIE_R-Codes.Rmd           		 # R scripts for the analyses: fro
 
 src/
 
-		dada2/										 # Output files from the DADA2 read processing, e.g., ASV count table, read counts, etc.
+		output/										 # Output files from the DADA2 read processing, e.g., ASV count table, read counts, etc.
 		fasttree/									 # Phylogenetic tree files for the 16S and 18S rRNA data.
 		modima/								 		 # Modima R code.
 		microeco/									 # Microtable objects for downstream analyses, e.g., bac.mco (16S rRNA microtable), euk.mco (18S rRNA microtable), etc. 
