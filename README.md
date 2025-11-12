@@ -1,13 +1,8 @@
-Title: "Pollutant biodegradation profile mediated by multi-trophic microbial dynamics in rivers"
-
-Author: "Joeselle Serrana"
-
-Date: "8/1/2025"
-
+Codes for: "Pollutant biodegradation profile mediated by multi-trophic microbial dynamics in rivers"
 ---  
 Source Data:
 
-MS-Spatiotemporal-BIE_R-Codes.Rmd           		 # R scripts for the analyses: from input data processing to downstream analyses.
+		MS-Spatiotemporal-BIE_R-Codes.Rmd            # R scripts for the analyses: from input data processing to downstream analyses.
 
 src/
 
